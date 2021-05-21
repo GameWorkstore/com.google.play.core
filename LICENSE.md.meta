@@ -1,7 +1,8 @@
 fileFormatVersion: 2
-guid: f61a1c8e753b496bb696e77d7eedfb95
-labels:
-- gvh
-- gvh_version-1.2.165
-- gvhp_exportpath-LICENSE.md
-timeCreated: 0
+guid: bbf238c6951964b08ae437c67f5c96a8
+timeCreated: 1583983813
+licenseType: Pro
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
